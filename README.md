@@ -18,7 +18,7 @@ This paper investigates the conceptual barrier in proving the equality of the P 
 ## Repository Contents
 * `document.tex` — The complete, verified LaTeX source code of the manuscript (English version).
 * `document_ru.tex` — The complete, verified LaTeX source code of the manuscript (Russian version).
-* `manuscript.pdf` — The compiled print-ready PDF version of the academic paper.
+
 
 ## Mathematical Core
 The dynamics of the probability density distribution of finding AI agents on the continuous Riemannian manifold is strictly described by the Fokker–Planck equation, which is conjugate to the Langevin equation:
